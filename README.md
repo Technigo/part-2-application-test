@@ -1,8 +1,8 @@
-# Application test for the part 2 of the Technigo frontend boot camp
+# Application test for the second part of the Technigo frontend boot camp
 
-We're happy that you are applying for the second part of our boot camp. The second part involves a lot of React and Node.js so we would like to check that you are up to speed with more basic HTML, CSS and JavaScript before we offer you a seat so that we all can move forward in the same speed. 
+We're happy that you are applying for the second part of our boot camp. The second part involves a lot of React and Node.js so we would like to check that you are up to speed with more basic HTML, CSS and JavaScript before we offer you a seat. This is so that we all can move forward in the same speed. 
 
-Therefore, we would like to see how you solve this assignment and know your way of using git and github. After you have finished the assignment we would like to know a bit more about yourself and why you would like to enter this program. 
+Therefore, we would like to see how you solve this assignment and that you know your way of using git and github. After you have finished the assignment we would like to know a bit more about yourself and why you would like to enter this program in the written application below. 
 
 Fill in this application after you have solved this assignment. 
 
