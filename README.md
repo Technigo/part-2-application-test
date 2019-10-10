@@ -1,4 +1,4 @@
-# Application test for the second part of the Technigo frontend boot camp
+# Application test – Part 2 of Technigo frontend boot camp
 
 We're happy that you are applying for the second part of our boot camp. The second part involves a lot of React and Node.js so we would like to check that you are up to speed with more basic HTML, CSS and JavaScript before we offer you a seat. This is so that we all can move forward in the same speed. 
 
