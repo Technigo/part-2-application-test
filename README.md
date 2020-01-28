@@ -6,7 +6,7 @@ Therefore, we would like to see how you solve this assignment and that you know 
 
 [Fill in this application after you have solved this assignment.](https://technigo.typeform.com/to/VfxjdS?applied=xxxxx) 
 
-Your last day to submit is on February 21st. You can expect an answer from us within 5 working days from when you have submitted your assignment. The program starts on November 18th. 
+Your last day to submit is on February 21st. You can expect an answer from us within 5 working days from when you have submitted your assignment. The program starts on March 4th. 
 
 Good luck! 
 
